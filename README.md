@@ -1,0 +1,19 @@
+## sys_mssi_64_cn_armv82-user 12 SP1A.210812.016 1670418761343 release-keys
+- Manufacturer: oplus
+- Platform: mt6833
+- Codename: ossi
+- Brand: oplus
+- Flavor: sys_mssi_64_cn_armv82-user
+- Release Version: 12
+- Kernel Version: 4.14.186
+- Id: SP1A.210812.016
+- Incremental: 1670418761343
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: oplus/ossi/ossi:12/SP1A.210812.016/1669726723970:user/release-keys
+- OTA version: 
+- Branch: sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1670418761343-release-keys
+- Repo: oplus_ossi_dump
