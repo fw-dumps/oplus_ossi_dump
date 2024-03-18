@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extend_features>
+	<app_feature name="com.oplus.smartsidebar.default.off"/>
+	<app_feature name="com.oplus.metis.bind_cpu_cluster_for_different_soc" args="int:2"/>
+	<app_feature name="com.opus.systemui.disable_qs_list" args="String:osie,lris"/>
+</extend_features>
+<!-- Timestamp 2023-07-31T15:30:33 #33742 -->
